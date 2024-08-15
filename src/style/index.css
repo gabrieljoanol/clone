@@ -1,0 +1,8 @@
+.me-auto {
+  display: flex;
+  flex-direction: row;
+}
+.me-auto p {
+  font-size: 2em;
+  color: black;
+}/*# sourceMappingURL=index.css.map */
